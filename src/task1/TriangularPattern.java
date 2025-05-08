@@ -1,5 +1,3 @@
-package task1;
-
 /**
  * This class demonstrates a triangular pattern using nested loops.
  */
