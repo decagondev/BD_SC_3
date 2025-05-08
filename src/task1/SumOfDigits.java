@@ -1,4 +1,3 @@
-package task1;
 
 /**
  * This class calculates the sum of digits in a number.
