@@ -1,5 +1,3 @@
-package task1;
-
 /**
  * This class implements a solution to find all prime numbers below a given limit
  * using the Sieve of Eratosthenes algorithm.
