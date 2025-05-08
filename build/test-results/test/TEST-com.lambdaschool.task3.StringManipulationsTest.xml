@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lambdaschool.task3.StringManipulationsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-08T01:48:10.833Z" hostname="Toms-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="testIsPalindrome()" classname="com.lambdaschool.task3.StringManipulationsTest" time="0.006"/>
+  <testcase name="testCountCharacters()" classname="com.lambdaschool.task3.StringManipulationsTest" time="0.002"/>
+  <testcase name="testFindLongestWord()" classname="com.lambdaschool.task3.StringManipulationsTest" time="0.0"/>
+  <testcase name="testFindLongestWordWithMultipleSpaces()" classname="com.lambdaschool.task3.StringManipulationsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

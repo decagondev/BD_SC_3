@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lambdaschool.task2.ArrayOperationsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-08T01:48:10.847Z" hostname="Toms-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="testFindSecondLargestWithDuplicates()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testMergeSortedArrays()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testFindSecondLargestThrowsException()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testReverseArray()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testMergeSortedArraysWithDuplicates()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testReverseArrayWithEvenLength()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.0"/>
+  <testcase name="testFindSecondLargest()" classname="com.lambdaschool.task2.ArrayOperationsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
